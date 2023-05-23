@@ -49,19 +49,13 @@ const Navbar = () => {
   const menus = [
     {
       name: 'Explore',
-      href: '#',
+      href: 'https://thirdweb.com/goerli/0xc72DA255bcB6BDE03D07CDf5ae16F093CFc54a22/listings',
     },
-    {
-      name: 'Stats',
-      href: '#',
-    },
-    {
-      name: 'Resources',
-      href: '#',
-    },
+   
+   
     {
       name: 'Create',
-      href: '#',
+      href: 'https://thirdweb.com/goerli/0x9F6cD2599897f10D7246eA3fD8DA5aDCede30706/nfts',
     },
   ]
 
@@ -97,8 +91,7 @@ const Navbar = () => {
       </div>
 
       <div className={style.iconsContainer}>
-        <UserCircleIcon className={`${style.icons} ${style.desktopIcons}`} />
-        <CreditCardIcon className={`${style.icons} ${style.desktopIcons}`} />
+       
         {renderThemeChanger()}
         <SearchIcon className={`${style.icons} ${style.mobileIcons}`} />
         <MenuIcon className={`${style.icons} ${style.tabletIcons}`} />
