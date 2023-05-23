@@ -1,5 +1,2 @@
-# Welcome to the OpenSea Clone
+Welcome to the ApnaBazaar - NFT Marketplace
 
-To get started, fork this Repl and follow the tutorial
-
-Like & subscribe ❤️
