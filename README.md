@@ -10,17 +10,17 @@ or
 Yarn create-next-app --Apna with-tailwindcss with-tailwindcss-app
 Implement your next code here.
 
-2.Create Metamask wallet
+2.Create MetaMask wallet
 
-Create Metamask account and select goerilli test network and add goerilli test ether in it.
+Create MetaMask account and select goerli test network and add goerli test ether in it.
 
 3.Thirdweb
 
-Create the smart contract for the nft collection and Create smart contract for the nft marketplace and deploy it over goerilli test network and add nft from the nft collection into the market place.
+Create the smart contract for the NFT collection and Create smart contract for the NFT Marketplace and deploy it over goerli test network and add NFT from the NFT collection into the market place.
 
 4.QuickNode
 
-Create a rpc node in quick node with network selected as goerilli test network as It act as a medium to connect our wallet and our marketplace, which is deployed on the test network.
+Create a RPC node in quick node with network selected as goerli test network as It act as a medium to connect our wallet and our marketplace, which is deployed on the test network.
 
 5.Execution
 
